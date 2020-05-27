@@ -1,5 +1,9 @@
-## Hello! 
+## WordPress Animated Gallery (Not Using Elementor)
 This project walks you through how to create an animated gallery on your WordPress site/theme, which will display four images in a masonry gallery layout, and at an interval set by the user, animate out one of those four images and replace it with an undisplayed image.
+
+# DEMO
+
+![Animated Gallery Demo](https://i.imgur.com/kgxPDkF.gif)
 
 To start, download Advanced Custom Fields Pro. Once downloaded, navigate to "CPT UI" in the WordPress dashboard. Add a post type
 
