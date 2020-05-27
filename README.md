@@ -3,7 +3,7 @@ This project walks you through how to create an animated gallery on your WordPre
 
 ## DEMO
 
-![Animated Gallery Demo](https://i.imgur.com/kgxPDkF.gif)
+![Animated Gallery Demo](https://i.imgur.com/zTppnBC.gif)
 
 To start, download Advanced Custom Fields Pro. Once downloaded, navigate to "CPT UI" in the WordPress dashboard. Add a post type
 
